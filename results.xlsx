@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603125340835,149,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-1,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,90,0,65
+1603125340993,59,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-1,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,19,0,0
+1603125341336,104,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-2,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,60,0,34
+1603125341445,72,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-2,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,22,0,0
+1603125341834,117,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-3,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,72,0,38
+1603125341952,68,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-3,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,25,0,0
+1603125342335,112,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-4,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,68,0,50
+1603125342449,66,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-4,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,19,0,0
+1603125342833,96,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-5,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,53,0,32
+1603125342930,67,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-5,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,23,0,0
+1603125343334,118,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-6,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,63,0,42
+1603125343455,66,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-6,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,19,0,0
+1603125343832,100,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-7,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,55,0,32
+1603125343934,61,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-7,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,21,0,0
+1603125344335,114,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-8,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,66,0,41
+1603125344452,63,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-8,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,20,0,0
+1603125344834,113,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-9,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,51,0,32
+1603125344948,62,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-9,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,18,0,0
+1603125345335,109,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-10,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,66,0,44
+1603125345446,69,HTTP Request - GET rapidash,200,OK,Thread Group - Rapidash 1-10,text,true,,173668,135,1,1,https://pokeapi.co/api/v2/pokemon/rapidash,22,0,0
